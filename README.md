@@ -213,16 +213,6 @@ result = pipeline.run(topic="study session", state=PhysioState.FOCUS)
 
 ---
 
-## 🎯 Use Cases
-
-- **🧘 Wellness Apps**: Personalized meditation and relaxation content
-- **📚 Educational Platforms**: State-appropriate learning materials
-- **💼 Productivity Tools**: Focus-enhancing background content
-- **😴 Sleep Applications**: Pre-sleep relaxation videos
-- **🏋️ Fitness Apps**: Motivational workout content
-- **🩺 Mental Health**: Therapeutic video content for different moods
-- **🎮 Gaming**: Adaptive background ambiance based on player state
-- **📱 Social Media**: Personalized short-form content creation
 
 ---
 
